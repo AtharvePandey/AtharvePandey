@@ -3,10 +3,6 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-
-<div id="badges">
   <a href="https://www.linkedin.com/in/atharve-pandey-359ab8200/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,7 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+ ---
 
 ### :man_technologist: About Me :
 
@@ -32,7 +28,7 @@ I am a rising third year student studying Computer Science at the University of 
 - :zap: In my free time, I solve coding problems or watch cool videos on youtube related to programming concepts. I also workout, go biking or just watch movies.
 
 - :mailbox: Contact me via email (find it somewhere on the left).
----
+ ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -47,7 +43,7 @@ I am a rising third year student studying Computer Science at the University of 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>  
 </div>
----
+ ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtharvePandey&theme=dark&background=000000)](https://git.io/streak-stats)
