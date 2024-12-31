@@ -27,7 +27,7 @@ I am a final semester senior studying Computer Science at the University of Mass
 
 - :zap: In my free time I play COD warzone and go to the gym (my bench PR is 225 lbs).
 
-- :mailbox: Contact me via <a href="pandey.atharve@gmail.com">Email</a>.
+- :mailbox: Contact me via <a href="mailto:pandey.atharve@gmail.com">Email.</a>.
  ---
 
 ### :hammer_and_wrench: Languages and Tools :
