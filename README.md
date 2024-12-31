@@ -19,13 +19,13 @@
 
 ### :man_technologist: About Me :
 
-I am a rising third year student studying Computer Science at the University of Massachusetts Amherst.
+I am a final semester senior studying Computer Science at the University of Massachusetts Amherst.
 
-- :telescope: I’m currently working through TheOdinProject learning fullstack development and am also working on various other open source projects on github.
+- :telescope: I'm currently working through leetcode 75, neetcode 150 and neetcode 250 to prepare for my technical interviews.
 
-- :seedling: Learning C properly; I already know C but might as well learn it properly this time around(check out my repository for C). I'm also learning datastructures and algorithms. 
+- :seedling: I want to go into software engineering, Java and C are among my favorite languages; I have also built a compiler for the pascal programming language <a href="https://google.com">Link on Github to the compiler project</a>. 
 
-- :zap: In my free time, I solve coding problems or watch cool videos on youtube related to programming concepts. I also workout, go biking or just watch movies.
+- :zap: In my free time I play COD warzone and go to the gym (my bench PR is 225 lbs).
 
 - :mailbox: Contact me via email (find it somewhere on the left).
  ---
