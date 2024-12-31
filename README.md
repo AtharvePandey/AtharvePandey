@@ -21,7 +21,7 @@
 
 I am a final semester senior studying Computer Science at the University of Massachusetts Amherst.
 
-- :telescope: I'm currently working through leetcode 75, neetcode 150 and neetcode 250 to prepare for my technical interviews. Feel free to look through my repository which contains all of the problems I have done so far (in Java) there are close to 2500 lines of code and counting so far! I also intend to add a section for sorting algorithms and other common ones such as graph traversals, Moores algorithm etc. <a href="[https://google.com](https://github.com/AtharvePandey/javaPractice)">Link to that repo</a>.
+- :telescope: I'm currently working through leetcode 75, neetcode 150 and neetcode 250 to prepare for my technical interviews. Feel free to look through my repository which contains all of the problems I have done so far (in Java) there are close to 2500 lines of code and counting so far! I also intend to add a section for sorting algorithms and other common ones such as graph traversals, Moores algorithm etc. <a href="[https://github.com/AtharvePandey/javaPractice]">Link to that repo</a>.
 
 - :seedling: I want to go into software engineering, Java and C are among my favorite languages; I have also built a compiler for the pascal programming language <a href="https://google.com">Link on Github to the compiler project</a>. 
 
